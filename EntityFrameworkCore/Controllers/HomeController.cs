@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using EntityFrameworkCore.Models;
 using Microsoft.AspNetCore.Mvc;
-using EntityFrameworkCore.Models;
+using System.Diagnostics;
 
 namespace EntityFrameworkCore.Controllers
 {
